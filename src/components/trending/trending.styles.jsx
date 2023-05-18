@@ -1,7 +1,6 @@
 import styled from "styled-components";
 
 export const TrendingCardContainer = styled.div`
-  width: 100%;
   background: #444946;
   padding: 10px;
   margin-top: 0;
